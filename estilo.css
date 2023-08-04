@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: #7c5979
+}
+
+#emotes{
+    margin-top: 0%;
+}
+
+#letras{
+    margin-bottom: 0%;
+}
+
+button{
+    font-size: large;
+}
+
+#si{
+    background-color: green;
+    color: white;
+}
