@@ -1,6 +1,7 @@
 body{
     text-align: center;
-    background-color: #7c5979
+    /*background-color: #7c5979*/
+    background-color: red;
 }
 
 #emotes{
